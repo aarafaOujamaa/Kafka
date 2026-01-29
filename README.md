@@ -1,3 +1,4 @@
+https://www.baeldung.com/kafka-shift-from-zookeeper-to-kraft
 #!/bin/bash
 
 # change 127.0.0.1 by your Docker ADW_HOST
